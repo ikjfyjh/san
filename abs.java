@@ -17,7 +17,7 @@ class Area {
 	}
 }
 
-public class Main {
+public class abs {
 	public static void main(String[] args)
 	{
 
